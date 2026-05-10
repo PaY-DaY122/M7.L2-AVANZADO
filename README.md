@@ -105,23 +105,22 @@ python main.py
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia **MIT**.  
 Puedes usar, copiar, modificar y distribuir este código libremente, siempre que se mantenga el crédito original.
 
 ```
-MIT License
-
 Copyright (c) 2026
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Por la presente se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y de los archivos de documentación asociados (el «Software»), para disponer
+del Software sin restricciones, incluyendo, entre otros, los derechos
+de utilizar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Software, y para permitir que las personas a las que se les facilite el Software
+hagan lo mismo, con sujeción a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de derechos de autor anterior y este aviso de permiso deberán incluirse en todas las
+copias o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
 ```
