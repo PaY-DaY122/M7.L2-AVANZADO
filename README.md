@@ -122,5 +122,4 @@ copias o partes sustanciales del Software.
 
 EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
 ```
