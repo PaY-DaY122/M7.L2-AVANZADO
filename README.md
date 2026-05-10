@@ -55,9 +55,6 @@ Confianza: 94.73%
 Sobre esta raza: Raza muy popular, conocida por ser amigable y obediente.
 ```
 
-> *(Reemplaza esta sección con una captura de pantalla real del bot en acción)*  
-> `![Ejemplo del bot](enlace_a_tu_captura_aqui)`
-
 ---
 
 ## 🛠️ Tecnologías utilizadas
