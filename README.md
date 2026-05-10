@@ -8,7 +8,7 @@ Un bot de Discord que utiliza inteligencia artificial para identificar razas de 
 
 Este bot recibe una imagen enviada por el usuario en Discord, la analiza con un modelo de clasificación de imágenes entrenado en **Google Teachable Machine**, y responde indicando qué raza detectó junto con el porcentaje de confianza de la predicción.
 
-El modelo fue entrenado con **50 imágenes por clase** y puede reconocer 4 razas: dos muy conocidas y dos poco comunes, para que sea entretenido y también educativo.
+El modelo fue entrenado con **80 imágenes por clase** y puede reconocer 4 razas: dos muy conocidas y dos poco comunes, para que sea entretenido y también educativo.
 
 ---
 
