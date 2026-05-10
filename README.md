@@ -124,7 +124,4 @@ EL SOFTWARE SE PROPORCIONA «TAL CUAL», SIN GARANTÍA DE NINGÚN TIPO.
 
 ```
 
-## 🌿 Rama de desarrollo
-
-Esta rama fue creada para practicar el flujo de trabajo con ramas Git.
 
